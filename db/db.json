@@ -90,7 +90,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 4
     },
     {
@@ -101,7 +101,7 @@
         "Bacon",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 5
     },
     {
@@ -111,7 +111,7 @@
       "opcionais": [
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 6
     },
     {
@@ -123,31 +123,8 @@
         "Cheddar",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 7
-    },
-    {
-      "nome": "Pedro",
-      "carne": "Veggie burger",
-      "pao": "Mexicano",
-      "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Salame",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 8
-    },
-    {
-      "nome": "Maria",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 10
     }
   ]
 }
