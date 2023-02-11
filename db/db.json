@@ -83,18 +83,6 @@
   ],
   "burgers": [
     {
-      "nome": "Matheus Battisti",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Finalizado",
-      "id": 1
-    },
-    {
       "nome": "João Coelho",
       "carne": "Maminha",
       "pao": "3 Queijos",
@@ -150,14 +138,6 @@
       ],
       "status": "Solicitado",
       "id": 8
-    },
-    {
-      "nome": "Emanoel",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 9
     },
     {
       "nome": "Maria",
